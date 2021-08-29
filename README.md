@@ -24,4 +24,4 @@ Conceptos
 - classList (remove, add, toggle)
 - window.innerWidth
 
-![](https://repository-images.githubusercontent.com/389354085/cd952773-c738-48da-a9f0-ea536cc94f00)
+![](https://repository-images.githubusercontent.com/389354085/eb2e6296-2f3d-4e0b-ac34-d7fcc40fe4a2)
